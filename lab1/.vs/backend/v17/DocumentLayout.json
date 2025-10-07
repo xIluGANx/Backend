@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ynik\\Backend\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D31337F-1A19-4AFB-9375-0E1D856F1289}|WebApplication1\\lab1.csproj|e:\\ynik\\backend\\lab1\\webapplication1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6D31337F-1A19-4AFB-9375-0E1D856F1289}|WebApplication1\\lab1.csproj|solutionrelative:webapplication1\\lab1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\reportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\models\\datasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\lab3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDED596F-E562-4767-ACA4-56259A0EB79F}|..\\lab3\\lab3\\lab3.csproj|e:\\ynik\\backend\\lab3\\lab3\\appsettings.json||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D31337F-1A19-4AFB-9375-0E1D856F1289}|WebApplication1\\lab1.csproj|e:\\ynik\\backend\\lab1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D31337F-1A19-4AFB-9375-0E1D856F1289}|WebApplication1\\lab1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab1",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\WebApplication1\\lab1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\lab1.csproj",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\WebApplication1\\lab1.csproj",
+              "RelativeToolTip": "WebApplication1\\lab1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T18:22:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab3.csproj",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\lab3.csproj",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\lab3.csproj",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\lab3.csproj",
+              "RelativeToolTip": "..\\lab3\\lab3\\lab3.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T17:48:21.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lab3",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\lab3.csproj",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\lab3.csproj",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\lab3.csproj",
+              "RelativeToolTip": "..\\lab3\\lab3\\lab3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T17:45:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Application.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Application.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Application.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Application.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Application.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:37:41.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\appsettings.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\appsettings.json",
+              "RelativeToolTip": "..\\lab3\\lab3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T17:37:05.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSettings.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Models\\DataSettings.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Models\\DataSettings.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Models\\DataSettings.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Models\\DataSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:32:09.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Program.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Program.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:25:16.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Models\\EmailSettings.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Models\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:31:59.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Models\\User.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Models\\User.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:31:51.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\UserRepository.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\UserRepository.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\UserRepository.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwE0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:31:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\EmailService.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\EmailService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:30:46.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\DataService.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\DataService.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\DataService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:30:27.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IDataService.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\IDataService.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IDataService.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\IDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:30:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\IEmailService.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IEmailService.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:30:38.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\IUserRepository.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IUserRepository.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:30:58.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportGenerator.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\ReportGenerator.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\ReportGenerator.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\ReportGenerator.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\ReportGenerator.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAuwDwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:31:37.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IReportGenerator.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IReportGenerator.cs",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\Services\\IReportGenerator.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\Services\\IReportGenerator.cs",
+              "RelativeToolTip": "..\\lab3\\lab3\\Services\\IReportGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:31:27.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab3\\lab3\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\lab3\\lab3\\appsettings.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab3\\lab3\\appsettings.json",
+              "RelativeToolTip": "..\\lab3\\lab3\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T17:32:28.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:01:36.372Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
