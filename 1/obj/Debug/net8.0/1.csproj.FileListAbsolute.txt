@@ -36,3 +36,14 @@ E:\Ynik\Backend\1\obj\Debug\net8.0\refint\1.dll
 E:\Ynik\Backend\1\obj\Debug\net8.0\1.pdb
 E:\Ynik\Backend\1\obj\Debug\net8.0\1.genruntimeconfig.cache
 E:\Ynik\Backend\1\obj\Debug\net8.0\ref\1.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Ynik\Backend\1\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
