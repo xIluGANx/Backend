@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8wM2SfHBqbScLwBI8ojBG1u7CKZAmXIp1iT87LHj5hB+j/bRw8h5Lse3GnWqMwyCFEF7RBFq1mzZFwo0paFJQ==",
+  "success": true,
+  "projectFilePath": "E:\\Ynik\\Backend\\1\\1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilika\\.nuget\\packages\\microsoft.openapi\\1.6.25\\microsoft.openapi.1.6.25.nupkg.sha512",
+    "C:\\Users\\ilika\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\9.0.6\\swashbuckle.aspnetcore.swagger.9.0.6.nupkg.sha512",
+    "C:\\Users\\ilika\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\9.0.6\\swashbuckle.aspnetcore.swaggergen.9.0.6.nupkg.sha512",
+    "C:\\Users\\ilika\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\9.0.6\\swashbuckle.aspnetcore.swaggerui.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
