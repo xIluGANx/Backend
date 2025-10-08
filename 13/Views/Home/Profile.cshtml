@@ -1,0 +1,8 @@
+﻿@using System.Security.Claims
+<h2>Профиль пользователя</h2>
+
+<p>Эта страница доступна только авторизованным пользователям.</p>
+<p><strong>Имя:</strong> @User.Identity.Name</p>
+<p><strong>Роль:</strong> @User.FindFirst(ClaimTypes.Role)?.Value</p>
+
+<a href="/">На главную</a>

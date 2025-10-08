@@ -3,19 +3,10 @@
   "WorkspaceRootPath": "E:\\Ynik\\Backend\\lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8548932B-D493-484E-B3E5-18AA6E761D35}|..\\11\\11.csproj|e:\\ynik\\backend\\11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{968EADA3-791D-4E08-B67C-5666F4D0C853}|..\\13\\13.csproj|e:\\ynik\\backend\\13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8548932B-D493-484E-B3E5-18AA6E761D35}|..\\11\\11.csproj|e:\\ynik\\backend\\11\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8548932B-D493-484E-B3E5-18AA6E761D35}|..\\11\\11.csproj|e:\\ynik\\backend\\11\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8548932B-D493-484E-B3E5-18AA6E761D35}|..\\11\\11.csproj|e:\\ynik\\backend\\11\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8548932B-D493-484E-B3E5-18AA6E761D35}|..\\11\\11.csproj|e:\\ynik\\backend\\11\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{968EADA3-791D-4E08-B67C-5666F4D0C853}|..\\13\\13.csproj|e:\\ynik\\backend\\13\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +16,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "E:\\Ynik\\Backend\\11\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\11\\Repositories\\IProductRepository.cs",
-              "ToolTip": "E:\\Ynik\\Backend\\11\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "..\\11\\Repositories\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:44:57.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\Ynik\\Backend\\11\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "..\\11\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\Ynik\\Backend\\11\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "..\\11\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAwwHEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:44:04.633Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\13\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\13\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Ynik\\Backend\\13\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\13\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAkwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T11:01:43.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Ynik\\Backend\\11\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "..\\11\\Models\\Product.cs",
-              "ToolTip": "E:\\Ynik\\Backend\\11\\Models\\Product.cs",
-              "RelativeToolTip": "..\\11\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\13\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\13\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\13\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\13\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwDYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:43:11.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "E:\\Ynik\\Backend\\11\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "..\\11\\Repositories\\ProductRepository.cs",
-              "ToolTip": "E:\\Ynik\\Backend\\11\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "..\\11\\Repositories\\ProductRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwH4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:42:34.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Ynik\\Backend\\11\\Program.cs",
-              "RelativeDocumentMoniker": "..\\11\\Program.cs",
-              "ToolTip": "E:\\Ynik\\Backend\\11\\Program.cs",
-              "RelativeToolTip": "..\\11\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T23:39:37.874Z",
+              "WhenOpened": "2025-10-08T11:00:29.992Z",
               "EditorCaption": ""
             }
           ]

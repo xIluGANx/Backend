@@ -49,3 +49,4 @@ E:\Ynik\Backend\lab3\lab3\obj\Debug\net8.0\refint\lab3.dll
 E:\Ynik\Backend\lab3\lab3\obj\Debug\net8.0\lab3.pdb
 E:\Ynik\Backend\lab3\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
 E:\Ynik\Backend\lab3\lab3\obj\Debug\net8.0\ref\lab3.dll
+E:\Ynik\Backend\lab3\lab3\obj\Debug\net8.0\lab3.sourcelink.json

@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>CORS Test Client</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+            .button:hover {
+                background: #0056b3;
+            }
+
+        .result {
+            background: #f8f9fa;
+            border: 1px solid #dee2e6;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 4px;
+            white-space: pre-wrap;
+        }
+
+        .error {
+            color: #dc3545;
+        }
+
+        .success {
+            color: #28a745;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CORS Test Client</h1>
+
+        <div>
+            <h3>Test CORS Policies</h3>
+            <button class="button" onclick="testAllowAll()">Test AllowAll Policy</button>
+            <button class="button" onclick="testRestricted()">Test Restricted Policy</button>
+            <button class="button" onclick="testWithoutCors()">Test Without CORS</button>
+        </div>
+
+        <div id="result"></div>
+    </div>
+
+    <script>
+        const API_BASE_URL = 'https://localhost:7000/api';
+
+        function displayResult(message, isError = false) {
+            const resultDiv = document.getElementById('result');
+            resultDiv.innerHTML = `<div class="result ${isError ? 'error' : 'success'}">${message}</div>`;
+        }
+
+        async function testAllowAll() {
+            try {
+                const response = await fetch(`${API_BASE_URL}/users`);
+                const data = await response.json();
+
+                let result = `Status: ${response.status}\n`;
+                result += `CORS Headers:\n`;
+                result += `- Access-Control-Allow-Origin: ${response.headers.get('Access-Control-Allow-Origin') || 'Not set'}\n`;
+                result += `- Access-Control-Allow-Methods: ${response.headers.get('Access-Control-Allow-Methods') || 'Not set'}\n`;
+                result += `Data: ${JSON.stringify(data, null, 2)}`;
+
+                displayResult(result);
+            } catch (error) {
+                displayResult(`Error: ${error.message}`, true);
+            }
+        }
+
+        async function testRestricted() {
+            try {
+                const response = await fetch(`${API_BASE_URL}/users/1`);
+                const data = await response.json();
+
+                let result = `Status: ${response.status}\n`;
+                result += `CORS Headers:\n`;
+                result += `- Access-Control-Allow-Origin: ${response.headers.get('Access-Control-Allow-Origin') || 'Not set'}\n`;
+                result += `Data: ${JSON.stringify(data, null, 2)}`;
+
+                displayResult(result);
+            } catch (error) {
+                displayResult(`Error: ${error.message}`, true);
+            }
+        }
+
+        async function testWithoutCors() {
+            try {
+                const response = await fetch(`${API_BASE_URL}/users/2`);
+                const data = await response.json();
+
+                let result = `Status: ${response.status}\n`;
+                result += `CORS Headers:\n`;
+                result += `- Access-Control-Allow-Origin: ${response.headers.get('Access-Control-Allow-Origin') || 'Not set'}\n`;
+                result += `Data: ${JSON.stringify(data, null, 2)}`;
+
+                displayResult(result);
+            } catch (error) {
+                displayResult(`Error: ${error.message}`, true);
+            }
+        }
+    </script>
+</body>
+</html>

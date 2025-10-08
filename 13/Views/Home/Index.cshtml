@@ -1,0 +1,52 @@
+﻿@using Microsoft.AspNetCore.Authorization
+@inject IAuthorizationService AuthorizationService
+@using System.Security.Claims
+<h2>Главная страница</h2>
+
+<div style="background: #fff3cd; padding: 15px; margin: 10px 0; border: 1px solid #ffeaa7;">
+    <h4>🔍 ДИАГНОСТИКА АУТЕНТИФИКАЦИИ:</h4>
+    <p><strong>IsAuthenticated:</strong> <span style="color: @(User.Identity.IsAuthenticated ? "green" : "red")">@User.Identity.IsAuthenticated</span></p>
+    <p><strong>UserName:</strong> @(User.Identity.Name ?? "null")</p>
+    <p><strong>AuthenticationType:</strong> @(User.Identity.AuthenticationType ?? "null")</p>
+    <p><strong>Role:</strong> @(User.FindFirst(ClaimTypes.Role)?.Value ?? "null")</p>
+    <p><strong>Cookies Count:</strong> @Context.Request.Cookies.Count</p>
+
+    <div style="margin-top: 10px;">
+        <a href="/Account/DebugAuth" target="_blank" class="btn btn-info btn-sm">Подробная диагностика</a>
+        <form method="post" action="/Account/TestLogin" style="display: inline;">
+            @Html.AntiForgeryToken()
+            <button type="submit" class="btn btn-warning btn-sm">Тестовый вход</button>
+        </form>
+    </div>
+</div>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <div style="background: #d4edda; padding: 20px; margin: 15px 0; border: 2px solid #c3e6cb;">
+        <h3>✅ ВЫ АВТОРИЗОВАНЫ!</h3>
+        <p><strong>Имя:</strong> @User.Identity.Name</p>
+        <p><strong>Роль:</strong> @User.FindFirst(ClaimTypes.Role)?.Value</p>
+
+        <div style="margin-top: 15px;">
+            <a href="/Home/Profile" class="btn btn-primary">Профиль</a>
+
+            @if (User.IsInRole("Admin"))
+            {
+                <a href="/Home/AdminPanel" class="btn btn-danger">Админ панель</a>
+            }
+
+            <form method="post" action="/Account/Logout" style="display: inline;">
+                @Html.AntiForgeryToken()
+                <button type="submit" class="btn btn-warning">Выйти</button>
+            </form>
+        </div>
+    </div>
+}
+else
+{
+    <div style="background: #f8d7da; padding: 20px; margin: 15px 0; border: 2px solid #f5c6cb;">
+        <h3>❌ ВЫ НЕ АВТОРИЗОВАНЫ</h3>
+        <p>Для доступа к функциям системы необходимо войти.</p>
+        <a href="/Account/Login" class="btn btn-success">Войти в систему</a>
+    </div>
+}
