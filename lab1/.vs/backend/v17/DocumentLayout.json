@@ -3,6 +3,45 @@
   "WorkspaceRootPath": "E:\\Ynik\\Backend\\lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\appsettings.staging.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\configuration\\applicationsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|e:\\ynik\\backend\\lab1\\6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB3C337-7539-4971-A82A-25858B818966}|6\\6.csproj|solutionrelative:6\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{968EADA3-791D-4E08-B67C-5666F4D0C853}|..\\13\\13.csproj|e:\\ynik\\backend\\13\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{968EADA3-791D-4E08-B67C-5666F4D0C853}|..\\13\\13.csproj|e:\\ynik\\backend\\13\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -21,6 +60,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "6\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\Properties\\launchSettings.json",
+              "RelativeToolTip": "6\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:43:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "6\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "6\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAA4wFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:25:19.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "6\\Services\\ConfigurationService.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "6\\Services\\ConfigurationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:25:02.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationSettings.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\Configuration\\ApplicationSettings.cs",
+              "RelativeDocumentMoniker": "6\\Configuration\\ApplicationSettings.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\Configuration\\ApplicationSettings.cs",
+              "RelativeToolTip": "6\\Configuration\\ApplicationSettings.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowBEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:24:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\Program.cs",
+              "RelativeDocumentMoniker": "6\\Program.cs",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\Program.cs",
+              "RelativeToolTip": "6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:24:15.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "6\\appsettings.Development.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.Development.json",
+              "RelativeToolTip": "6\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:24:00.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.json",
+              "RelativeDocumentMoniker": "6\\appsettings.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.json",
+              "RelativeToolTip": "6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:21:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "6\\appsettings.Production.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.Production.json",
+              "RelativeToolTip": "6\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:22:28.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Staging.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.Staging.json",
+              "RelativeDocumentMoniker": "6\\appsettings.Staging.json",
+              "ToolTip": "E:\\Ynik\\Backend\\lab1\\6\\appsettings.Staging.json",
+              "RelativeToolTip": "6\\appsettings.Staging.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-11T12:22:14.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Ynik\\Backend\\13\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\13\\appsettings.json",
+              "ToolTip": "E:\\Ynik\\Backend\\13\\appsettings.json",
+              "RelativeToolTip": "..\\13\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T12:07:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Ynik\\Backend\\13\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\13\\Views\\Home\\Index.cshtml",
@@ -33,13 +202,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Ynik\\Backend\\13\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\13\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\Ynik\\Backend\\13\\Controllers\\HomeController.cs",
               "RelativeToolTip": "..\\13\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwDYAAAABAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAA4wDYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T11:00:29.992Z",
               "EditorCaption": ""
