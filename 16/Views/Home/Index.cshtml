@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Главная";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/custom.css" />
+</head>
+<body>
+    <h1>Добро пожаловать в веб-приложение!</h1>
+    <p>Пример использования CSS и JS.</p>
+
+    <button id="btnTest">Нажми меня</button>
+
+    <script src="~/js/site.js"></script>
+    <script src="~/js/custom.js"></script>
+    <script>
+        document.getElementById("btnTest").addEventListener("click", function () {
+            alert("Кнопка работает!");
+        });
+    </script>
+</body>
+</html>

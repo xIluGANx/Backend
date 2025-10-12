@@ -1,0 +1,48 @@
+2025-10-11 19:50:04.799 +03:00 [DBG] Hosting starting
+2025-10-11 19:50:05.005 +03:00 [INF] Now listening on: https://localhost:7055
+2025-10-11 19:50:05.007 +03:00 [INF] Now listening on: http://localhost:5052
+2025-10-11 19:50:05.008 +03:00 [DBG] Loaded hosting startup assembly 7
+2025-10-11 19:50:05.009 +03:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2025-10-11 19:50:05.010 +03:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2025-10-11 19:50:05.012 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-10-11 19:50:05.013 +03:00 [INF] Hosting environment: Development
+2025-10-11 19:50:05.013 +03:00 [INF] Content root path: E:\Ynik\Backend\7
+2025-10-11 19:50:05.015 +03:00 [DBG] Hosting started
+2025-10-11 19:50:05.341 +03:00 [DBG] Connection id "0HNG8SOTB3AJ9" accepted.
+2025-10-11 19:50:05.341 +03:00 [DBG] Connection id "0HNG8SOTB3AJ8" accepted.
+2025-10-11 19:50:05.342 +03:00 [DBG] Connection id "0HNG8SOTB3AJ9" started.
+2025-10-11 19:50:05.343 +03:00 [DBG] Connection id "0HNG8SOTB3AJ8" started.
+2025-10-11 19:50:05.353 +03:00 [DBG] Connection id "0HNG8SOTB3AJ9" received FIN.
+2025-10-11 19:50:05.353 +03:00 [DBG] Connection id "0HNG8SOTB3AJ8" received FIN.
+2025-10-11 19:50:05.360 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-10-11 19:50:05.360 +03:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2025-10-11 19:50:05.383 +03:00 [DBG] Connection id "0HNG8SOTB3AJ9" stopped.
+2025-10-11 19:50:05.383 +03:00 [DBG] Connection id "0HNG8SOTB3AJ8" stopped.
+2025-10-11 19:50:05.387 +03:00 [DBG] Connection id "0HNG8SOTB3AJ9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-10-11 19:50:05.387 +03:00 [DBG] Connection id "0HNG8SOTB3AJ8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-10-11 19:50:06.331 +03:00 [DBG] Connection id "0HNG8SOTB3AJA" accepted.
+2025-10-11 19:50:06.332 +03:00 [DBG] Connection id "0HNG8SOTB3AJA" started.
+2025-10-11 19:50:06.355 +03:00 [DBG] Connection 0HNG8SOTB3AJA established using the following protocol: "Tls13"
+2025-10-11 19:50:06.393 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7055/ - null null
+2025-10-11 19:50:06.456 +03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-10-11 19:50:06.495 +03:00 [DBG] 1 candidate(s) found for the request path '/'
+2025-10-11 19:50:06.496 +03:00 [DBG] Request matched endpoint 'HTTP: GET /'
+2025-10-11 19:50:06.502 +03:00 [INF] Executing endpoint 'HTTP: GET /'
+2025-10-11 19:50:06.504 +03:00 [INF] Обработка запроса к /
+2025-10-11 19:50:06.507 +03:00 [INF] Executed endpoint 'HTTP: GET /'
+2025-10-11 19:50:06.509 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7055/ - 200 null text/plain; charset=utf-8 120.8946ms
+2025-10-11 19:50:06.569 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7055/favicon.ico - null null
+2025-10-11 19:50:06.572 +03:00 [DBG] No candidates found for the request path '/favicon.ico'
+2025-10-11 19:50:06.573 +03:00 [DBG] Request did not match any endpoints
+2025-10-11 19:50:06.574 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7055/favicon.ico - 499 null null 4.7962ms
+2025-10-11 19:50:06.576 +03:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7055/favicon.ico, Response status code: 499

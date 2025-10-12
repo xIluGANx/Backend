@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>States Test</title>
+</head>
+<body>
+    <h1>Работа с состояниями в ASP.NET Core</h1>
+
+    <h2>localStorage и sessionStorage</h2>
+    <button onclick="setStorage()">Set Storage</button>
+    <button onclick="getStorage()">Get Storage</button>
+
+    <script>function setStorage() {
+            localStorage.setItem("username", "Alice");
+            sessionStorage.setItem("sessionId", "ABC123");
+            alert("Storage values set!");
+        }
+
+        function getStorage() {
+            const local = localStorage.getItem("username");
+            const session = sessionStorage.getItem("sessionId");
+            alert(`localStorage username: ${local}\nsessionStorage sessionId: ${session}`);
+        }</script>
+
+    <h2>Тестирование сессии и cookies</h2>
+    <ul>
+        <li><a href="/Session/SetSession">Set Session</a></li>
+        <li><a href="/Session/GetSession">Get Session</a></li>
+        <li><a href="/Session/SetCookie">Set Cookie</a></li>
+        <li><a href="/Session/GetCookie">Get Cookie</a></li>
+    </ul>
+</body>
+</html>
